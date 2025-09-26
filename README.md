@@ -1,4 +1,4 @@
-# Automax - Proyecto de Renta de Autos
+# PL/SQL con ORACLE y Python
 
 Proyecto del primer parcial
 
