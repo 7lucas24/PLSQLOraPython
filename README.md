@@ -27,22 +27,6 @@ SELECT username, account_status, lock_date FROM cdb_users WHERE username = 'PROO
 * docker exec -it oracle-xe sqlplus proone/abc@//localhost/XEPDB1
 * sqlplus proone/abc@localhost:abc/XEPDB1;
 
-## Pruebas
-
-Actualmente, las pruebas del proyecto se basan en la ejecución y verificación manual de las rutas y opciones de la página web.
-
-### Pruebas end-to-end
-
-* Navega por las diferentes secciones (Home, Contacto, Acerca de, Galería de autos).
-* Verifica que los enlaces funcionen correctamente y que las imágenes y estilos se carguen bien.
-
----
-
-## Despliegue
-
-
-
----
 
 ## Construido con
 
@@ -58,14 +42,7 @@ Actualmente, las pruebas del proyecto se basan en la ejecución y verificación 
 
 ---
 
-## Licencia
-
-Este proyecto está no esta licenciado por nada.
-
----
-
 ## Agradecimientos
 
 * A los profesores de la UACH por guiar el aprendizaje del desarrollo de software.
-* A Python por ser el que no raja.
 * A quienes contribuyeron con documentación y ejemplos de metodologías.
